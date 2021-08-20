@@ -271,12 +271,12 @@ flag = 1
 global video
 global video2
 
-video = Path("/home/pi/Downloads/hnd02vd/NOVAS1.mp4")
-video2 = Path("/home/pi/Downloads/hnd02vd/NOVAS2.mp4")
-video3 = Path("/home/pi/Downloads/hnd02vd/NOVAS3.mp4")
-video4 = Path("/home/pi/Downloads/hnd02vd/NOVAS4.mp4")
-video5 = Path("/home/pi/Downloads/hnd02vd/NOVAS4.mp4")
-spc_video = Path("/home/pi/Downloads/spc.mp4")
+video = Path("/home/pi/Downloads/hnd_0.2/NOVAS1.mp4")
+video2 = Path("/home/pi/Downloads/hnd_0.2/NOVAS2.mp4")
+video3 = Path("/home/pi/Downloads/hnd_0.2/NOVAS3.mp4")
+video4 = Path("/home/pi/Downloads/hnd_0.2/NOVAS4.mp4")
+video5 = Path("/home/pi/Downloads/hnd_0.2/NOVAS4.mp4")
+#spc_video = Path("/home/pi/Downloads/spc.mp4")
 global a
 global i
 global player
